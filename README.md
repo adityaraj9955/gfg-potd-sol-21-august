@@ -1,2 +1,2 @@
 # gfg-potd-sol-21-august
-gfg potd sloution 21st augist 2024
+gfg potd sloution 22nd augist 2024
